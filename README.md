@@ -20,5 +20,5 @@ At the `mysql>` prompt:
 
 You should then be able connect to the mySQL database via MySQL WorkBench:
   - **Hostname**:  `localhost`
-  - **Post**: `3307`
+  - **Port**: `3307`
   - **Username**: `admin`

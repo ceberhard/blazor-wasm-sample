@@ -1,1 +1,3 @@
-placeholder
+CREATE USER 'admin'@'%' IDENTIFIED BY '[admin_password_here]';
+
+GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%';
